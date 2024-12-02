@@ -52,7 +52,7 @@ Welcome to **Yeet the Capybara**! A fun and interactive game built with **Larave
 
 1. **Clone the Repository** (or download the files):
 ```bash
-git clone https://github.com/yourusername/yeet-the-capybara.git
+git clone https://github.com/Azza-arch/Yeet-the-capybara.git
 ```
 
 2. **Install Composer Dependencies**:
