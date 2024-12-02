@@ -61,9 +61,11 @@ composer install
 ```
 
 5. **Run the Application**:
-   ```bash
+
+```bash
 npm run dev
 ```
+
 ```bash
 php artisan serve
 ```
