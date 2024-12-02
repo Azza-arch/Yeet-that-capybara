@@ -1,7 +1,3 @@
-Here is a **README** for the "Yeet the Capybara" game, styled similarly to an Ikea poster with a touch of **boldness** and **clarity** to match the fun, minimalist vibe you're going for. I've utilized syntax for highlighting key sections, keeping it simple and engaging.
-
----
-
 # **Yeet The Capybara Game 🎮**
 Welcome to **Yeet the Capybara**! A fun and interactive game built with **Laravel** and **Livewire** where you can throw a capybara or banana around the screen and try to score as many points as you can before the game ends. It's a simple but exciting challenge!
 
