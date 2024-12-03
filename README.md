@@ -49,6 +49,10 @@ Welcome to **Yeet the Capybara**! A fun and interactive game built with **Larave
 
 ---
 
+# Yeet that Capybara 🎮
+A web-based game built with **Laravel**, **Livewire**, and **Tailwind CSS**, where you launch a capybara or banana into the air to score points.  
+**Live demo**: [Yeet that Capybara](https://yeet-a-capybara.vercel.app)  
+
 ## **Installation Instructions 📦**
 
 1. **Clone the Repository** (or download the files):
